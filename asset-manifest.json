@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "//cbdevninja.github.io/fine-dining/static/css/main.f4a02fa1.css",
+    "main.js": "//cbdevninja.github.io/fine-dining/static/js/main.2618d6d1.js",
+    "static/media/meal.mp4": "//cbdevninja.github.io/fine-dining/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "//cbdevninja.github.io/fine-dining/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "//cbdevninja.github.io/fine-dining/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "//cbdevninja.github.io/fine-dining/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "//cbdevninja.github.io/fine-dining/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "//cbdevninja.github.io/fine-dining/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "//cbdevninja.github.io/fine-dining/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "//cbdevninja.github.io/fine-dining/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "//cbdevninja.github.io/fine-dining/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "//cbdevninja.github.io/fine-dining/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "//cbdevninja.github.io/fine-dining/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "//cbdevninja.github.io/fine-dining/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "//cbdevninja.github.io/fine-dining/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "//cbdevninja.github.io/fine-dining/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "//cbdevninja.github.io/fine-dining/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "//cbdevninja.github.io/fine-dining/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "//cbdevninja.github.io/fine-dining/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "//cbdevninja.github.io/fine-dining/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "//cbdevninja.github.io/fine-dining/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "//cbdevninja.github.io/fine-dining/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "//cbdevninja.github.io/fine-dining/index.html",
+    "static/media/spoon.svg": "//cbdevninja.github.io/fine-dining/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.f4a02fa1.css.map": "//cbdevninja.github.io/fine-dining/static/css/main.f4a02fa1.css.map",
+    "main.2618d6d1.js.map": "//cbdevninja.github.io/fine-dining/static/js/main.2618d6d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a02fa1.css",
+    "static/js/main.2618d6d1.js"
+  ]
+}
